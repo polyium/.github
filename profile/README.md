@@ -1,17 +1,17 @@
-# Polyium
+## Polyium
 
 **Modern Financial Software and Development Tooling**
 
-## Applications & Roadmap
+### Applications & Roadmap
 
 See our **Projects** for application roadmaps, development efforts.
 
 - *Community discussion(s) coming soon.*
 
-## Open-Source
+### Open-Source
 
 Visit our public repositories for officially supported and maintained codebases.
 
-## Licensing
+### Licensing
 
 Unless otherwise absent or noted, Polyium projects are released under the MIT License.
