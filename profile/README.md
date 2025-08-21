@@ -1,7 +1,5 @@
 # Polyium
 
-## Overview
-
 We build modern, privacy-first software with a focus on financial data, developer tools, and user experience.
 
 See our public repositories for our officially supported and open-source projects!
