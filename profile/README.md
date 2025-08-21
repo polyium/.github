@@ -1,14 +1,16 @@
 # Polyium
 
-We build modern, privacy-first software with a focus on financial data, developer tools, and user experience.
+**Modern Financial Software and Development Tooling**
 
-See our public repositories for our officially supported and open-source projects!
+## Applications & Roadmap
 
----
+See our **Projects** for application roadmaps, development efforts.
 
-- Privacy First: We will never sell or share personal information without clear and explicit consent.
-- Open Collaboration: The community and its feedback are the only factors that shapes our roadmap.
-- Cutting-Edge: Only the latest technologies and services are used with our applications.
+- *Community discussion(s) coming soon.*
+
+## Open-Source
+
+Visit our public repositories for officially supported and maintained codebases.
 
 ## Licensing
 
