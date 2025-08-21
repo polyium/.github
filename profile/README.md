@@ -1,7 +1,3 @@
-# Polyium
-
-**Modern Financial Software and Development Tooling**
-
 ## Applications & Roadmap
 
 See our **Projects** for application roadmaps, development efforts.
