@@ -1,9 +1,3 @@
-## Applications & Roadmap
-
-See our **Projects** for application roadmaps, development efforts.
-
-- *Community discussion(s) coming soon.*
-
 ## Open-Source
 
 Visit our public repositories for officially supported and maintained codebases.
