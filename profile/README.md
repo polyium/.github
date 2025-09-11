@@ -1,7 +1,10 @@
 ## Open-Source
 
-Visit our public repositories for officially supported and maintained codebases.
+See our public repositories for officially supported and maintained codebases! We use these same
+projects in various applications and internal tooling. 
+
+We're always open to contributions and discussion.
 
 ### Licensing
 
-Unless otherwise absent or noted, Polyium projects are released under the MIT License.
+**MIT License** unless otherwise restricted.
