@@ -1,7 +1,9 @@
+Welcome!
+
 ## Open-Source
 
-See our public repositories for our officially supported and maintained codebases! We use these same
-projects in various production applications and internal tooling. 
+All publically available repositories are actively maintained -- we use these
+same projects in our own production applications and internal tooling!
 
 We're always open to contributions and discussion.
 
