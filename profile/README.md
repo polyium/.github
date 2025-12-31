@@ -9,4 +9,4 @@ We're always open to contributions and discussion.
 
 ### Licensing
 
-**MIT License** unless otherwise restricted.
+**MIT License** unless a project's dependencies, licensing prevents otherwise.
