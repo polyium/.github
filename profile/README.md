@@ -1,6 +1,6 @@
 ## Open-Source
 
-Welcome to Polyium's Open-Source, public GH organization!
+Welcome to Polyium's public OSS GH organization!
 
 ### Licensing
 
